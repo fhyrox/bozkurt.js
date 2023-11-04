@@ -1,0 +1,11 @@
+{
+  "name": "bozkurt.js",
+  "version": "1.0.0",
+  "description": "İçindeki mühtişam özellikleriyle sizi havaya uçurur :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fhyrex",
+  "license": "MIT"
+}
