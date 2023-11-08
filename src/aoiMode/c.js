@@ -1,5 +1,5 @@
-module.exports = (arox) => {
-    arox.functionManager.createFunction({
+module.exports = (bot) => {
+    bot.functionManager.createFunction({
     name: "$c",
     type: "djs",
     async code(d) {
